@@ -3,3 +3,5 @@
 /Python機械学習プログラミング/第8章_機械学習の適用_感情分析/aclImdb
 aclImdb_v1.tar.gz
 StudyML/
+/Python機械学習プログラミング/第12章_ニューラルネットワークの訓練をPyTorchで並列化する/celeba
+/Python機械学習プログラミング/第12章_ニューラルネットワークの訓練をPyTorchで並列化する/MNIST
